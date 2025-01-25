@@ -1,6 +1,6 @@
 Here, we are using two algorithms: 
 1.Random forest 
-2.Suppoet vector machine 
+2.Support vector machine 
 After checking the accuracy level of both the algorithms we proceed with the one with the better  
 accuracy rate.
 
